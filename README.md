@@ -28,3 +28,7 @@ NSF AGS-2432821 and collaborative awards AGS-2432822, AGS-2432823, and AGS-24328
 ## About HamSCI working groups
 
 See the [HamSCI working group template](https://github.com/HamSCI/hamsci-wg) for what a working group is, how to join one, and how to propose one.
+
+## License
+
+The content of this repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
