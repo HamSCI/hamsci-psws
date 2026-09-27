@@ -36,6 +36,7 @@ plugins:
 scholar:
   sort_by: year
   order: descending
+  bibliography_template: bib
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,14 @@
+---
+---
+{%- comment -%}
+jekyll-scholar bibliography template. The citation style prints each DOI as
+plain text; this wraps it in a link to https://doi.org/ so readers can click
+through. Entries without a DOI render unchanged.
+{%- endcomment -%}
+{%- if entry.doi -%}
+{%- capture doi_url -%}https://doi.org/{{ entry.doi }}{%- endcapture -%}
+{%- capture doi_link -%}<a href="{{ doi_url }}">{{ doi_url }}</a>{%- endcapture -%}
+{{ reference | replace: doi_url, doi_link }}
+{%- else -%}
+{{ reference }}
+{%- endif -%}
