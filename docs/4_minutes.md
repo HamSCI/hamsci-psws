@@ -2,7 +2,6 @@
 layout: page
 title: Meeting Minutes
 permalink: /minutes/
-mermaid: true
 ---
 
-Keep your meeting minutes here! 
+Minutes of working group meetings will be posted here. Meeting times are on the [HamSCI calendar](https://www.hamsci.org/calendar).

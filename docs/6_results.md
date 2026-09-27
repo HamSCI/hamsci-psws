@@ -4,13 +4,14 @@ title: Results and Publications
 permalink: /results/
 ---
 
-## Table of Contents 
+## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
 
-## Datasets
-{% bibliography -f datasets.bib %}
+## Data
+
+PSWS observations are publicly available from the [HamSCI PSWS central database](https://pswsnetwork.eng.ua.edu/).
 
 ## Publications
 {% bibliography -f publications.bib %}
