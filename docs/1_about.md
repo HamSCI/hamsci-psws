@@ -6,7 +6,7 @@ permalink: /about/
 
 ## The PSWS network
 
-HamSCI established the Personal Space Weather Station network in 2019 under an NSF Distributed Array of Small Instruments (DASI) Track 1 award. Stations are affordable (roughly 100 to 1,000 US dollars per instrument) and are built and operated by professional researchers, students, and volunteer amateur radio operators working together. The network has been used to study the ionospheric effects of solar flares, solar eclipses, geomagnetic storms, and traveling ionospheric disturbances.
+HamSCI established the Personal Space Weather Station network in 2019, and the working group dates from 1 January 2020, when The University of Scranton's first NSF Distributed Array of Small Instruments (DASI) award (AGS-2002278, Track 1) began. Stations are affordable (roughly 100 to 1,000 US dollars per instrument) and are built and operated by professional researchers, students, and volunteer amateur radio operators working together. The network has been used to study the ionospheric effects of solar flares, solar eclipses, geomagnetic storms, and traveling ionospheric disturbances.
 
 Since January 2025, the network has been expanding under an NSF DASI Track 2 award (see [Goals]({{ '/goals/' | relative_url }})). The expansion places standardized stations that combine all three receive instruments at low-noise sites across the United States, and adds GPS-disciplined WSPRSonde beacons.
 
@@ -39,4 +39,4 @@ HamSCI is looking for volunteers with quiet, rural sites to host PSWS instrument
 
 ## Join the working group
 
-The group's meetings are posted on the [HamSCI calendar](https://www.hamsci.org/calendar). [Mailing list to be announced.]
+Join the [hamsci-psws mailing list](https://groups.google.com/g/hamsci-psws) (hamsci-psws@googlegroups.com). The group's meetings are posted on the [HamSCI calendar](https://www.hamsci.org/calendar).

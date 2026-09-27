@@ -4,6 +4,8 @@ The HamSCI PSWS Working Group builds, deploys, and operates the [HamSCI Personal
 
 - **Website:** https://hamsci.github.io/hamsci-psws/
 - **Leads:** Dr. Nathaniel Frissell (W2NAF), The University of Scranton; Dr. Kristina Collins (KD8OXT), Space Science Institute
+- **Mailing list:** [hamsci-psws@googlegroups.com](https://groups.google.com/g/hamsci-psws)
+- **Chartered:** 1 January 2020, with The University of Scranton's first NSF DASI award (AGS-2002278)
 - **Data:** [HamSCI PSWS central database](https://pswsnetwork.eng.ua.edu/)
 - **Documentation:** [HamSCI/PSWS_Documentation](https://github.com/HamSCI/PSWS_Documentation)
 
